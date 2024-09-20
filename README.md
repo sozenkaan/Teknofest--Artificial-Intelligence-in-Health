@@ -1,5 +1,4 @@
 # Teknofest--Artificial-Intelligence-in-Health
-# Teknofest - Artificial Intelligence in Health
 
 ## Project Overview
 
