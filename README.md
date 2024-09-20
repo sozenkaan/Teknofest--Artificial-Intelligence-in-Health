@@ -52,13 +52,7 @@ The dataset used consists of brain tomography images in **DICOM** format, which 
 You can install the necessary libraries using the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt'''
 
-├── data/                   # Directory containing brain tomography images
-├── models/                 # Trained models and weights
-├── notebooks/              # Jupyter notebooks for experimentation and analysis
-├── scripts/                # Python scripts for running the models
-├── results/                # Output CSV files with predictions
-├── README.md               # This README file
-└── requirements.txt        # Dependencies required to run the project
+
 
